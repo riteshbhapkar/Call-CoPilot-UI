@@ -1,17 +1,3 @@
-<think>
-I need to create a README file that specifically focuses on explaining how to use the `googletest.py` script. The README should cover:
-
-1. Introduction to what the script does
-2. Prerequisites/requirements
-3. Installation instructions for BlackHole 2ch
-4. Configuration of BlackHole to route system audio
-5. Running the script
-6. Explanation of the script's output
-7. Troubleshooting
-
-Let me draft a complete README for this project.
-</think>
-
 # Real-time Dual-Channel Speech Transcription
 
 This tool enables real-time transcription of two separate audio streams: your microphone (for your voice) and system audio (for the other person/audio source), with automatic speaker labeling.
